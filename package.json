@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://lfcoding1.github.io/todo",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-responsive-decorator": "0.0.1",
